@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/lbarbatto/conversor-de-moedas/blob/main/source/img/lb_backend_alura_002.png">
+<img align="right" src="https://github.com/borghiacarlos/conversor-de-moedas/blob/main/source/img/lb_backend_alura_002.png">
 
 # Alura ONE - Oracle Next Education
 
@@ -57,7 +57,7 @@
 
 ## Download da aplicação :dash:
 
-> Baixe a Aplicação [AQUI](https://github.com/borghiacarlos/conversor-de-moedas/raw/main/final/alura-oracle-one-conversor-v002.jar) :
+> Baixe a Aplicação [AQUI](https://github.com/borghiacarlos/conversor-de-moedas/blob/main/final/alura-oracle-one-conversor-v002.jar) :
 
 Baixe o Arquivo para executar a aplicação
 
