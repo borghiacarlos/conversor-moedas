@@ -55,12 +55,6 @@
 
 :heavy_check_mark: Conversão de Real Peso chileno
 
-## Download da aplicação :dash:
-
-> Baixe a Aplicação [AQUI](https://github.com/borghiacarlos/conversor-de-moedas/blob/main/final/alura-oracle-one-conversor-v002.jar) :
-
-Baixe o Arquivo para executar a aplicação
-
 ## Casos de Uso
 
 Basta inserir um valor monetário e clicar no botão "OK", em seguida escolha quais serão as moedas de origem e convertida para visualizar o valor convertido.
